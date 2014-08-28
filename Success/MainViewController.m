@@ -10,6 +10,7 @@
 #import "JNWSpringAnimation.h"
 
 @interface MainViewController ()
+
 - (IBAction)refreshButton:(id)sender;
 - (IBAction)sendButton:(id)sender;
 - (IBAction)sendListBackButton:(id)sender;
@@ -1029,6 +1030,20 @@ int genderCounter = 0;
 - (IBAction)launchInbox:(id)sender {
     [inboxView setAlpha:1];
     [self.view bringSubviewToFront:inboxView];
+    
+    int counter = 100;
+    
+    for (int i = 0; i < inboxOutbox.count; i++)
+    {
+        UILabel  * label = [[UILabel alloc] initWithFrame:CGRectMake(40, 70, 300, counter)];
+        label.backgroundColor = [UIColor clearColor];
+        label.textColor=[UIColor blackColor];
+        label.text = [inboxOutbox objectAtIndex:i];
+        [self.view addSubview:label];
+        
+        counter += 100;
+    }
+
 
 }
 
