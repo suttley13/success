@@ -7,6 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EB21FC1D19AC033D005CB12A /* Mila Square.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC1319AC033D005CB12A /* Mila Square.png */; };
+		EB21FC1E19AC033D005CB12A /* Kate Square.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC1419AC033D005CB12A /* Kate Square.png */; };
+		EB21FC1F19AC033D005CB12A /* Jennifer Square.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC1519AC033D005CB12A /* Jennifer Square.png */; };
+		EB21FC2019AC033D005CB12A /* Eva Square.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC1619AC033D005CB12A /* Eva Square.png */; };
+		EB21FC2119AC033D005CB12A /* Emmanuelle Square.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC1719AC033D005CB12A /* Emmanuelle Square.png */; };
+		EB21FC2219AC033D005CB12A /* Emma Square.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC1819AC033D005CB12A /* Emma Square.png */; };
+		EB21FC2319AC033D005CB12A /* Emilia Square.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC1919AC033D005CB12A /* Emilia Square.png */; };
+		EB21FC2519AC033D005CB12A /* Elisha Square.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC1B19AC033D005CB12A /* Elisha Square.png */; };
+		EB21FC2619AC033D005CB12A /* Carla Square.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC1C19AC033D005CB12A /* Carla Square.png */; };
+		EB21FC2919AC3C6F005CB12A /* Refresh Arrowss.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC2819AC3C6E005CB12A /* Refresh Arrowss.png */; };
+		EB21FC2B19AC4251005CB12A /* Header Top.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC2A19AC4251005CB12A /* Header Top.png */; };
+		EB21FC2D19AC4541005CB12A /* Send Arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC2C19AC4541005CB12A /* Send Arrow.png */; };
+		EB21FC2F19AC510C005CB12A /* Refresh Arrowsss.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC2E19AC510C005CB12A /* Refresh Arrowsss.png */; };
+		EB21FC3119AC5232005CB12A /* Refresh Arrowss Blue.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC3019AC5232005CB12A /* Refresh Arrowss Blue.png */; };
+		EB21FC3519AC62FE005CB12A /* Date Lines.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC3219AC62FE005CB12A /* Date Lines.png */; };
+		EB21FC3619AC62FE005CB12A /* Hate Lines.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC3319AC62FE005CB12A /* Hate Lines.png */; };
+		EB21FC3719AC62FE005CB12A /* Mate Lines.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC3419AC62FE005CB12A /* Mate Lines.png */; };
+		EB21FC3919AC6667005CB12A /* White.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC3819AC6667005CB12A /* White.png */; };
+		EB21FC3B19AC6C0D005CB12A /* Setttings Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC3A19AC6C0D005CB12A /* Setttings Icon.png */; };
+		EB21FC4519AC7063005CB12A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC3D19AC7063005CB12A /* .gitignore */; };
+		EB21FC4619AC7063005CB12A /* JNWSpringAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = EB21FC3F19AC7063005CB12A /* JNWSpringAnimation.m */; };
+		EB21FC4719AC7063005CB12A /* JNWSpringAnimation.podspec in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC4019AC7063005CB12A /* JNWSpringAnimation.podspec */; };
+		EB21FC4819AC7063005CB12A /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC4119AC7063005CB12A /* LICENSE.md */; };
+		EB21FC4919AC7063005CB12A /* NSValue+JNWAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = EB21FC4319AC7063005CB12A /* NSValue+JNWAdditions.m */; };
+		EB21FC4A19AC7063005CB12A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC4419AC7063005CB12A /* README.md */; };
+		EB21FC5119ACF242005CB12A /* Mode Circle White.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC4F19ACF242005CB12A /* Mode Circle White.png */; };
+		EB21FC5219ACF242005CB12A /* Slide Background Purple.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC5019ACF242005CB12A /* Slide Background Purple.png */; };
+		EB21FC5619ACF67A005CB12A /* Katy Square.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC5319ACF67A005CB12A /* Katy Square.png */; };
+		EB21FC5719ACF67A005CB12A /* Scarlett Square.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC5419ACF67A005CB12A /* Scarlett Square.png */; };
+		EB21FC5819ACF67A005CB12A /* Zooey Square.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC5519ACF67A005CB12A /* Zooey Square.png */; };
+		EB21FC5C19ACF96B005CB12A /* Blue Hate.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC5919ACF96B005CB12A /* Blue Hate.png */; };
+		EB21FC5D19ACF96B005CB12A /* Purple Mate.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC5A19ACF96B005CB12A /* Purple Mate.png */; };
+		EB21FC5E19ACF96B005CB12A /* Red Date.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC5B19ACF96B005CB12A /* Red Date.png */; };
+		EB21FC6019ACFB9D005CB12A /* Plus Sign.png in Resources */ = {isa = PBXBuildFile; fileRef = EB21FC5F19ACFB9D005CB12A /* Plus Sign.png */; };
 		EBCF098519A42AFD004FC5D8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EBCF098419A42AFD004FC5D8 /* Foundation.framework */; };
 		EBCF098719A42AFD004FC5D8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EBCF098619A42AFD004FC5D8 /* CoreGraphics.framework */; };
 		EBCF098919A42AFD004FC5D8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EBCF098819A42AFD004FC5D8 /* UIKit.framework */; };
@@ -21,6 +55,27 @@
 		EBCF09A619A42AFD004FC5D8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EBCF098819A42AFD004FC5D8 /* UIKit.framework */; };
 		EBCF09AE19A42AFD004FC5D8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09AC19A42AFD004FC5D8 /* InfoPlist.strings */; };
 		EBCF09B019A42AFD004FC5D8 /* SuccessTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EBCF09AF19A42AFD004FC5D8 /* SuccessTests.m */; };
+		EBCF09C519A42DEE004FC5D8 /* Back arrow white.png in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09BB19A42DEE004FC5D8 /* Back arrow white.png */; };
+		EBCF09C619A42DEE004FC5D8 /* Cancel Button.png in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09BC19A42DEE004FC5D8 /* Cancel Button.png */; };
+		EBCF09C719A42DEE004FC5D8 /* date check.png in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09BD19A42DEE004FC5D8 /* date check.png */; };
+		EBCF09C819A42DEE004FC5D8 /* Determination Icon3.png in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09BE19A42DEE004FC5D8 /* Determination Icon3.png */; };
+		EBCF09C919A42DEE004FC5D8 /* hate check.png in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09BF19A42DEE004FC5D8 /* hate check.png */; };
+		EBCF09CA19A42DEE004FC5D8 /* Left Arrow Circle.png in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09C019A42DEE004FC5D8 /* Left Arrow Circle.png */; };
+		EBCF09CB19A42DEE004FC5D8 /* mate check.png in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09C119A42DEE004FC5D8 /* mate check.png */; };
+		EBCF09CC19A42DEE004FC5D8 /* Right Arrow Circle.png in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09C219A42DEE004FC5D8 /* Right Arrow Circle.png */; };
+		EBCF09CD19A42DEE004FC5D8 /* select circle.png in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09C319A42DEE004FC5D8 /* select circle.png */; };
+		EBCF09CE19A42DEE004FC5D8 /* Up Arrow Circle.png in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09C419A42DEE004FC5D8 /* Up Arrow Circle.png */; };
+		EBCF09D819A43008004FC5D8 /* Emilia Clarke.png in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09D519A43008004FC5D8 /* Emilia Clarke.png */; };
+		EBCF09D919A43008004FC5D8 /* Jennifer Lawrence.png in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09D619A43008004FC5D8 /* Jennifer Lawrence.png */; };
+		EBCF09DA19A43008004FC5D8 /* Mila Kunis.png in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09D719A43008004FC5D8 /* Mila Kunis.png */; };
+		EBCF09DE19A50BAF004FC5D8 /* Hate Swoosh.png in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09DB19A50BAF004FC5D8 /* Hate Swoosh.png */; };
+		EBCF09DF19A50BAF004FC5D8 /* Mate Swoosh.png in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09DC19A50BAF004FC5D8 /* Mate Swoosh.png */; };
+		EBCF09E019A50BAF004FC5D8 /* Date Swoosh.png in Resources */ = {isa = PBXBuildFile; fileRef = EBCF09DD19A50BAF004FC5D8 /* Date Swoosh.png */; };
+		EBF71EC319AD742D000593CB /* New Treeo Arrow Circle.png in Resources */ = {isa = PBXBuildFile; fileRef = EBF71EC219AD742D000593CB /* New Treeo Arrow Circle.png */; };
+		EBF71EC519AD767D000593CB /* Send Arrow2.png in Resources */ = {isa = PBXBuildFile; fileRef = EBF71EC419AD767D000593CB /* Send Arrow2.png */; };
+		EBF71EC719AD76EB000593CB /* Send Arrow 3.png in Resources */ = {isa = PBXBuildFile; fileRef = EBF71EC619AD76EB000593CB /* Send Arrow 3.png */; };
+		EBF71EC919AD791C000593CB /* Mode Circle.png in Resources */ = {isa = PBXBuildFile; fileRef = EBF71EC819AD791C000593CB /* Mode Circle.png */; };
+		EBF747DA19AB90DA00B9BF4E /* Refresh Arrows.png in Resources */ = {isa = PBXBuildFile; fileRef = EBF747D919AB90DA00B9BF4E /* Refresh Arrows.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +89,42 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EB21FC1319AC033D005CB12A /* Mila Square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Mila Square.png"; path = "Assets/Mila Square.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC1419AC033D005CB12A /* Kate Square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Kate Square.png"; path = "Assets/Kate Square.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC1519AC033D005CB12A /* Jennifer Square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Jennifer Square.png"; path = "Assets/Jennifer Square.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC1619AC033D005CB12A /* Eva Square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Eva Square.png"; path = "Assets/Eva Square.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC1719AC033D005CB12A /* Emmanuelle Square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Emmanuelle Square.png"; path = "Assets/Emmanuelle Square.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC1819AC033D005CB12A /* Emma Square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Emma Square.png"; path = "Assets/Emma Square.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC1919AC033D005CB12A /* Emilia Square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Emilia Square.png"; path = "Assets/Emilia Square.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC1B19AC033D005CB12A /* Elisha Square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Elisha Square.png"; path = "Assets/Elisha Square.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC1C19AC033D005CB12A /* Carla Square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Carla Square.png"; path = "Assets/Carla Square.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC2819AC3C6E005CB12A /* Refresh Arrowss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Refresh Arrowss.png"; path = "Assets/Refresh Arrowss.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC2A19AC4251005CB12A /* Header Top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Header Top.png"; path = "../../Determination/Determination/Header Top.png"; sourceTree = "<group>"; };
+		EB21FC2C19AC4541005CB12A /* Send Arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Send Arrow.png"; path = "Assets/Send Arrow.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC2E19AC510C005CB12A /* Refresh Arrowsss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Refresh Arrowsss.png"; path = "Assets/Refresh Arrowsss.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC3019AC5232005CB12A /* Refresh Arrowss Blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Refresh Arrowss Blue.png"; path = "Assets/Refresh Arrowss Blue.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC3219AC62FE005CB12A /* Date Lines.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Date Lines.png"; path = "Assets/Date Lines.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC3319AC62FE005CB12A /* Hate Lines.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Hate Lines.png"; path = "Assets/Hate Lines.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC3419AC62FE005CB12A /* Mate Lines.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Mate Lines.png"; path = "Assets/Mate Lines.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC3819AC6667005CB12A /* White.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = White.png; path = Assets/White.png; sourceTree = SOURCE_ROOT; };
+		EB21FC3A19AC6C0D005CB12A /* Setttings Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Setttings Icon.png"; path = "Assets/Setttings Icon.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC3D19AC7063005CB12A /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		EB21FC3E19AC7063005CB12A /* JNWSpringAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JNWSpringAnimation.h; sourceTree = "<group>"; };
+		EB21FC3F19AC7063005CB12A /* JNWSpringAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JNWSpringAnimation.m; sourceTree = "<group>"; };
+		EB21FC4019AC7063005CB12A /* JNWSpringAnimation.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = JNWSpringAnimation.podspec; sourceTree = "<group>"; };
+		EB21FC4119AC7063005CB12A /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.md; sourceTree = "<group>"; };
+		EB21FC4219AC7063005CB12A /* NSValue+JNWAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSValue+JNWAdditions.h"; sourceTree = "<group>"; };
+		EB21FC4319AC7063005CB12A /* NSValue+JNWAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSValue+JNWAdditions.m"; sourceTree = "<group>"; };
+		EB21FC4419AC7063005CB12A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		EB21FC4F19ACF242005CB12A /* Mode Circle White.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Mode Circle White.png"; path = "Assets/Mode Circle White.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC5019ACF242005CB12A /* Slide Background Purple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Slide Background Purple.png"; path = "Assets/Slide Background Purple.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC5319ACF67A005CB12A /* Katy Square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Katy Square.png"; path = "Assets/Katy Square.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC5419ACF67A005CB12A /* Scarlett Square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Scarlett Square.png"; path = "Assets/Scarlett Square.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC5519ACF67A005CB12A /* Zooey Square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Zooey Square.png"; path = "Assets/Zooey Square.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC5919ACF96B005CB12A /* Blue Hate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Blue Hate.png"; path = "Assets/Blue Hate.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC5A19ACF96B005CB12A /* Purple Mate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Purple Mate.png"; path = "Assets/Purple Mate.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC5B19ACF96B005CB12A /* Red Date.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Red Date.png"; path = "Assets/Red Date.png"; sourceTree = SOURCE_ROOT; };
+		EB21FC5F19ACFB9D005CB12A /* Plus Sign.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Plus Sign.png"; path = "Assets/Plus Sign.png"; sourceTree = SOURCE_ROOT; };
 		EBCF098119A42AFD004FC5D8 /* Success.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Success.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBCF098419A42AFD004FC5D8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		EBCF098619A42AFD004FC5D8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +144,27 @@
 		EBCF09AB19A42AFD004FC5D8 /* SuccessTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SuccessTests-Info.plist"; sourceTree = "<group>"; };
 		EBCF09AD19A42AFD004FC5D8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		EBCF09AF19A42AFD004FC5D8 /* SuccessTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SuccessTests.m; sourceTree = "<group>"; };
+		EBCF09BB19A42DEE004FC5D8 /* Back arrow white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Back arrow white.png"; sourceTree = "<group>"; };
+		EBCF09BC19A42DEE004FC5D8 /* Cancel Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Cancel Button.png"; sourceTree = "<group>"; };
+		EBCF09BD19A42DEE004FC5D8 /* date check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "date check.png"; sourceTree = "<group>"; };
+		EBCF09BE19A42DEE004FC5D8 /* Determination Icon3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Determination Icon3.png"; sourceTree = "<group>"; };
+		EBCF09BF19A42DEE004FC5D8 /* hate check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hate check.png"; sourceTree = "<group>"; };
+		EBCF09C019A42DEE004FC5D8 /* Left Arrow Circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Left Arrow Circle.png"; sourceTree = "<group>"; };
+		EBCF09C119A42DEE004FC5D8 /* mate check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mate check.png"; sourceTree = "<group>"; };
+		EBCF09C219A42DEE004FC5D8 /* Right Arrow Circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Right Arrow Circle.png"; sourceTree = "<group>"; };
+		EBCF09C319A42DEE004FC5D8 /* select circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "select circle.png"; sourceTree = "<group>"; };
+		EBCF09C419A42DEE004FC5D8 /* Up Arrow Circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Up Arrow Circle.png"; sourceTree = "<group>"; };
+		EBCF09D519A43008004FC5D8 /* Emilia Clarke.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Emilia Clarke.png"; sourceTree = "<group>"; };
+		EBCF09D619A43008004FC5D8 /* Jennifer Lawrence.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Jennifer Lawrence.png"; sourceTree = "<group>"; };
+		EBCF09D719A43008004FC5D8 /* Mila Kunis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mila Kunis.png"; sourceTree = "<group>"; };
+		EBCF09DB19A50BAF004FC5D8 /* Hate Swoosh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hate Swoosh.png"; sourceTree = "<group>"; };
+		EBCF09DC19A50BAF004FC5D8 /* Mate Swoosh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mate Swoosh.png"; sourceTree = "<group>"; };
+		EBCF09DD19A50BAF004FC5D8 /* Date Swoosh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Date Swoosh.png"; sourceTree = "<group>"; };
+		EBF71EC219AD742D000593CB /* New Treeo Arrow Circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "New Treeo Arrow Circle.png"; path = "Assets/New Treeo Arrow Circle.png"; sourceTree = SOURCE_ROOT; };
+		EBF71EC419AD767D000593CB /* Send Arrow2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Send Arrow2.png"; path = "Assets/Send Arrow2.png"; sourceTree = SOURCE_ROOT; };
+		EBF71EC619AD76EB000593CB /* Send Arrow 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Send Arrow 3.png"; path = "Assets/Send Arrow 3.png"; sourceTree = SOURCE_ROOT; };
+		EBF71EC819AD791C000593CB /* Mode Circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Mode Circle.png"; path = "Assets/Mode Circle.png"; sourceTree = SOURCE_ROOT; };
+		EBF747D919AB90DA00B9BF4E /* Refresh Arrows.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Refresh Arrows.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +191,50 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EB21FC2719AC0350005CB12A /* Faces */ = {
+			isa = PBXGroup;
+			children = (
+				EB21FC5319ACF67A005CB12A /* Katy Square.png */,
+				EB21FC5419ACF67A005CB12A /* Scarlett Square.png */,
+				EB21FC5519ACF67A005CB12A /* Zooey Square.png */,
+				EB21FC1319AC033D005CB12A /* Mila Square.png */,
+				EB21FC1419AC033D005CB12A /* Kate Square.png */,
+				EB21FC1519AC033D005CB12A /* Jennifer Square.png */,
+				EB21FC1619AC033D005CB12A /* Eva Square.png */,
+				EB21FC1719AC033D005CB12A /* Emmanuelle Square.png */,
+				EB21FC1819AC033D005CB12A /* Emma Square.png */,
+				EB21FC1919AC033D005CB12A /* Emilia Square.png */,
+				EB21FC1B19AC033D005CB12A /* Elisha Square.png */,
+				EB21FC1C19AC033D005CB12A /* Carla Square.png */,
+			);
+			name = Faces;
+			path = SuccessTests;
+			sourceTree = SOURCE_ROOT;
+		};
+		EB21FC3C19AC7063005CB12A /* JNWSpringAnimation-master 2 */ = {
+			isa = PBXGroup;
+			children = (
+				EB21FC3D19AC7063005CB12A /* .gitignore */,
+				EB21FC3E19AC7063005CB12A /* JNWSpringAnimation.h */,
+				EB21FC3F19AC7063005CB12A /* JNWSpringAnimation.m */,
+				EB21FC4019AC7063005CB12A /* JNWSpringAnimation.podspec */,
+				EB21FC4119AC7063005CB12A /* LICENSE.md */,
+				EB21FC4219AC7063005CB12A /* NSValue+JNWAdditions.h */,
+				EB21FC4319AC7063005CB12A /* NSValue+JNWAdditions.m */,
+				EB21FC4419AC7063005CB12A /* README.md */,
+			);
+			path = "JNWSpringAnimation-master 2";
+			sourceTree = "<group>";
+		};
+		EB21FC6119ACFBA1005CB12A /* Send List View */ = {
+			isa = PBXGroup;
+			children = (
+				EB21FC5F19ACFB9D005CB12A /* Plus Sign.png */,
+			);
+			name = "Send List View";
+			path = SuccessTests;
+			sourceTree = SOURCE_ROOT;
+		};
 		EBCF097819A42AFD004FC5D8 = {
 			isa = PBXGroup;
 			children = (
@@ -101,6 +257,7 @@
 		EBCF098319A42AFD004FC5D8 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				EB21FC3C19AC7063005CB12A /* JNWSpringAnimation-master 2 */,
 				EBCF098419A42AFD004FC5D8 /* Foundation.framework */,
 				EBCF098619A42AFD004FC5D8 /* CoreGraphics.framework */,
 				EBCF098819A42AFD004FC5D8 /* UIKit.framework */,
@@ -126,10 +283,10 @@
 		EBCF098B19A42AFD004FC5D8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				EBCF098C19A42AFD004FC5D8 /* Success-Info.plist */,
-				EBCF098D19A42AFD004FC5D8 /* InfoPlist.strings */,
-				EBCF099019A42AFD004FC5D8 /* main.m */,
-				EBCF099219A42AFD004FC5D8 /* Success-Prefix.pch */,
+				EB21FC6119ACFBA1005CB12A /* Send List View */,
+				EB21FC2719AC0350005CB12A /* Faces */,
+				EBCF09BA19A42C8D004FC5D8 /* Create View */,
+				EBCF09B919A42C77004FC5D8 /* Info */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -151,6 +308,61 @@
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
+		};
+		EBCF09B919A42C77004FC5D8 /* Info */ = {
+			isa = PBXGroup;
+			children = (
+				EBCF098C19A42AFD004FC5D8 /* Success-Info.plist */,
+				EBCF098D19A42AFD004FC5D8 /* InfoPlist.strings */,
+				EBCF099019A42AFD004FC5D8 /* main.m */,
+				EBCF099219A42AFD004FC5D8 /* Success-Prefix.pch */,
+			);
+			name = Info;
+			sourceTree = "<group>";
+		};
+		EBCF09BA19A42C8D004FC5D8 /* Create View */ = {
+			isa = PBXGroup;
+			children = (
+				EBF71EC819AD791C000593CB /* Mode Circle.png */,
+				EBF71EC619AD76EB000593CB /* Send Arrow 3.png */,
+				EBF71EC419AD767D000593CB /* Send Arrow2.png */,
+				EBF71EC219AD742D000593CB /* New Treeo Arrow Circle.png */,
+				EB21FC5919ACF96B005CB12A /* Blue Hate.png */,
+				EB21FC5A19ACF96B005CB12A /* Purple Mate.png */,
+				EB21FC5B19ACF96B005CB12A /* Red Date.png */,
+				EB21FC4F19ACF242005CB12A /* Mode Circle White.png */,
+				EB21FC5019ACF242005CB12A /* Slide Background Purple.png */,
+				EB21FC3A19AC6C0D005CB12A /* Setttings Icon.png */,
+				EB21FC3819AC6667005CB12A /* White.png */,
+				EB21FC3219AC62FE005CB12A /* Date Lines.png */,
+				EB21FC3319AC62FE005CB12A /* Hate Lines.png */,
+				EB21FC3419AC62FE005CB12A /* Mate Lines.png */,
+				EB21FC3019AC5232005CB12A /* Refresh Arrowss Blue.png */,
+				EB21FC2E19AC510C005CB12A /* Refresh Arrowsss.png */,
+				EB21FC2C19AC4541005CB12A /* Send Arrow.png */,
+				EB21FC2A19AC4251005CB12A /* Header Top.png */,
+				EB21FC2819AC3C6E005CB12A /* Refresh Arrowss.png */,
+				EBF747D919AB90DA00B9BF4E /* Refresh Arrows.png */,
+				EBCF09DB19A50BAF004FC5D8 /* Hate Swoosh.png */,
+				EBCF09DC19A50BAF004FC5D8 /* Mate Swoosh.png */,
+				EBCF09DD19A50BAF004FC5D8 /* Date Swoosh.png */,
+				EBCF09D519A43008004FC5D8 /* Emilia Clarke.png */,
+				EBCF09D619A43008004FC5D8 /* Jennifer Lawrence.png */,
+				EBCF09D719A43008004FC5D8 /* Mila Kunis.png */,
+				EBCF09BB19A42DEE004FC5D8 /* Back arrow white.png */,
+				EBCF09BC19A42DEE004FC5D8 /* Cancel Button.png */,
+				EBCF09BD19A42DEE004FC5D8 /* date check.png */,
+				EBCF09BE19A42DEE004FC5D8 /* Determination Icon3.png */,
+				EBCF09BF19A42DEE004FC5D8 /* hate check.png */,
+				EBCF09C019A42DEE004FC5D8 /* Left Arrow Circle.png */,
+				EBCF09C119A42DEE004FC5D8 /* mate check.png */,
+				EBCF09C219A42DEE004FC5D8 /* Right Arrow Circle.png */,
+				EBCF09C319A42DEE004FC5D8 /* select circle.png */,
+				EBCF09C419A42DEE004FC5D8 /* Up Arrow Circle.png */,
+			);
+			name = "Create View";
+			path = SuccessTests;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -229,9 +441,62 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EBF71EC319AD742D000593CB /* New Treeo Arrow Circle.png in Resources */,
+				EB21FC5E19ACF96B005CB12A /* Red Date.png in Resources */,
+				EB21FC6019ACFB9D005CB12A /* Plus Sign.png in Resources */,
+				EB21FC4519AC7063005CB12A /* .gitignore in Resources */,
+				EBCF09D919A43008004FC5D8 /* Jennifer Lawrence.png in Resources */,
+				EB21FC3519AC62FE005CB12A /* Date Lines.png in Resources */,
+				EB21FC2619AC033D005CB12A /* Carla Square.png in Resources */,
+				EBF71EC519AD767D000593CB /* Send Arrow2.png in Resources */,
+				EB21FC3719AC62FE005CB12A /* Mate Lines.png in Resources */,
+				EB21FC5D19ACF96B005CB12A /* Purple Mate.png in Resources */,
+				EB21FC2219AC033D005CB12A /* Emma Square.png in Resources */,
+				EB21FC5C19ACF96B005CB12A /* Blue Hate.png in Resources */,
+				EBCF09CB19A42DEE004FC5D8 /* mate check.png in Resources */,
+				EBCF09C519A42DEE004FC5D8 /* Back arrow white.png in Resources */,
+				EB21FC5619ACF67A005CB12A /* Katy Square.png in Resources */,
+				EBCF09CE19A42DEE004FC5D8 /* Up Arrow Circle.png in Resources */,
+				EB21FC1E19AC033D005CB12A /* Kate Square.png in Resources */,
+				EBCF09C919A42DEE004FC5D8 /* hate check.png in Resources */,
+				EBCF09C719A42DEE004FC5D8 /* date check.png in Resources */,
+				EB21FC3919AC6667005CB12A /* White.png in Resources */,
+				EBCF09E019A50BAF004FC5D8 /* Date Swoosh.png in Resources */,
+				EBCF09D819A43008004FC5D8 /* Emilia Clarke.png in Resources */,
 				EBCF099D19A42AFD004FC5D8 /* Images.xcassets in Resources */,
+				EBCF09C819A42DEE004FC5D8 /* Determination Icon3.png in Resources */,
+				EB21FC5219ACF242005CB12A /* Slide Background Purple.png in Resources */,
+				EB21FC2319AC033D005CB12A /* Emilia Square.png in Resources */,
+				EB21FC1F19AC033D005CB12A /* Jennifer Square.png in Resources */,
+				EBCF09CC19A42DEE004FC5D8 /* Right Arrow Circle.png in Resources */,
+				EBCF09DF19A50BAF004FC5D8 /* Mate Swoosh.png in Resources */,
+				EB21FC3619AC62FE005CB12A /* Hate Lines.png in Resources */,
+				EB21FC3B19AC6C0D005CB12A /* Setttings Icon.png in Resources */,
+				EB21FC4A19AC7063005CB12A /* README.md in Resources */,
+				EB21FC5719ACF67A005CB12A /* Scarlett Square.png in Resources */,
+				EBF71EC919AD791C000593CB /* Mode Circle.png in Resources */,
+				EB21FC2019AC033D005CB12A /* Eva Square.png in Resources */,
+				EB21FC2D19AC4541005CB12A /* Send Arrow.png in Resources */,
 				EBCF098F19A42AFD004FC5D8 /* InfoPlist.strings in Resources */,
+				EBCF09CA19A42DEE004FC5D8 /* Left Arrow Circle.png in Resources */,
+				EB21FC5119ACF242005CB12A /* Mode Circle White.png in Resources */,
+				EB21FC2919AC3C6F005CB12A /* Refresh Arrowss.png in Resources */,
+				EB21FC4719AC7063005CB12A /* JNWSpringAnimation.podspec in Resources */,
+				EB21FC2119AC033D005CB12A /* Emmanuelle Square.png in Resources */,
+				EB21FC2519AC033D005CB12A /* Elisha Square.png in Resources */,
 				EBCF099819A42AFD004FC5D8 /* Main.storyboard in Resources */,
+				EB21FC1D19AC033D005CB12A /* Mila Square.png in Resources */,
+				EBF71EC719AD76EB000593CB /* Send Arrow 3.png in Resources */,
+				EBCF09CD19A42DEE004FC5D8 /* select circle.png in Resources */,
+				EB21FC4819AC7063005CB12A /* LICENSE.md in Resources */,
+				EB21FC3119AC5232005CB12A /* Refresh Arrowss Blue.png in Resources */,
+				EBCF09DA19A43008004FC5D8 /* Mila Kunis.png in Resources */,
+				EB21FC5819ACF67A005CB12A /* Zooey Square.png in Resources */,
+				EB21FC2F19AC510C005CB12A /* Refresh Arrowsss.png in Resources */,
+				EB21FC2B19AC4251005CB12A /* Header Top.png in Resources */,
+				EBCF09DE19A50BAF004FC5D8 /* Hate Swoosh.png in Resources */,
+				EBF747DA19AB90DA00B9BF4E /* Refresh Arrows.png in Resources */,
+				EBCF09C619A42DEE004FC5D8 /* Cancel Button.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,7 +516,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				EBCF099119A42AFD004FC5D8 /* main.m in Sources */,
+				EB21FC4619AC7063005CB12A /* JNWSpringAnimation.m in Sources */,
 				EBCF099B19A42AFD004FC5D8 /* MainViewController.m in Sources */,
+				EB21FC4919AC7063005CB12A /* NSValue+JNWAdditions.m in Sources */,
 				EBCF099519A42AFD004FC5D8 /* MainAppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -457,6 +724,7 @@
 				EBCF09B519A42AFD004FC5D8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EBCF09B619A42AFD004FC5D8 /* Build configuration list for PBXNativeTarget "SuccessTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +733,7 @@
 				EBCF09B819A42AFD004FC5D8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
